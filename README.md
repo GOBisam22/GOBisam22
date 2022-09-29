@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @GOBisam22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- About Developer by Spck Edior Apps... 📄📱
+- 22 years... 🙎‍♂️
+- Location in Russian... 🇷🇺
+- The language used: English and Russian... 🎎
+- I am Deaf... 👋🙂
+- he/him... 👦
 
-<!---
-GOBisam22/GOBisam22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#About me#
+That's my GOBisam22.
+account that Bisammoeen has deleted.
+Hello there. 
+I am Developer of Many Code. I can code this hard. I want you to take care of this code. 
